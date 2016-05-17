@@ -1,2 +1,3 @@
 0920 .... kör vidare
 vad är git-gui
+Gunnar was here ...
