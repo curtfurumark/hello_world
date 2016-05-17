@@ -1,3 +1,4 @@
 this is a new file
 time is 14:34 hey ho let's go
-hi, its me, locally time is 14:54 and i'm trying to push tags
+hi, its me, local time is 14:54 and i'm trying to push tags
+another tuesday 13:37 adding this
